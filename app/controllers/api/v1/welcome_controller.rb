@@ -1,4 +1,4 @@
 class Api::V1::WelcomeController < ApplicationController
-    def home 
+    def index 
     end 
 end 
