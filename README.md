@@ -1,2 +1,2 @@
-# denali-balser
+# Denali Balser 
 Personal Website 
